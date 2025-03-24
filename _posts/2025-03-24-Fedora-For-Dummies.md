@@ -11,7 +11,7 @@ The Fedora Project is a community-driven open source initiative that develops Fe
 
 At its core is Fedora Linux, a popular operating system loved for its cutting-edge features and freedom. Fedora Linux serves as the basis for Red Hat Enterprise Linux (RHEL) and has different editions tailored to various use cases—like Fedora Workstation for personal computers, Fedora Server for hosting websites, and Fedora IoT for connected devices.
 
-![image](https://github.com/user-attachments/assets/02ed5e9b-44e9-4f8c-96c8-a604f2ee4ecd)
+![The homepage of The Fedora Project at https://fedoraproject.org](https://github.com/user-attachments/assets/02ed5e9b-44e9-4f8c-96c8-a604f2ee4ecd)
 
 ### Fedora: More Than Just a Hat
 Let’s clear something up right away: I know what you’re thinking—isn’t Fedora a hat? Yes, it is! But in this case, we’re diving into a Fedora that you wear on your digital head—a vibrant, global open-source community and operating system. So, put on your thinking cap (or Fedora!) and let’s explore.
