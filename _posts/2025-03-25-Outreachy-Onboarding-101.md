@@ -21,115 +21,89 @@ Before you RSVP to this grand tech party, ensure you meet the eligibility criter
 
 For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/).
 
-Visual Aid: A checklist graphic highlighting eligibility criteria.
+![A checklist graphic highlighting eligibility criteria](https://github.com/user-attachments/assets/6c4c5ccc-faad-4e58-bc65-70e75f9d0155)
+*A checklist graphic highlighting eligibility criteria*
 
 ## 3. Marking Your Calendar: Important Dates
+Outreachy internships run twice a year. Below is a general timeline for any given year:
+![Outreachy Annual Timeline](https://github.com/user-attachments/assets/0e648568-75b1-48e4-908f-601299c94d03)
+*The Outreachy Annual Timeline*
 
-Timing is everything! For the June 2025 cohort:
 
-    Initial Application Period: February 7 to February 15, 2025.​
-    outreachy.org+1outreachy.org+1
-
-    Internship Duration: June 2 to August 29, 2025.​
-    outreachy.org+1outreachy.org+1
-
+Timing is everything! For the June 2025 cohort, this was the timeline:
+- **Initial Application Period**: February 7 to February 15, 2025.​
+- **Internship Duration**: June 2 to August 29, 2025.​
+    
 Stay updated with the Outreachy Schedule.
 
-Visual Aid: A calendar marking key Outreachy dates.
-
-4. Crafting a Stellar Initial Application
+## 4. Crafting a Stellar Initial Application
 
 Your initial application is your golden ticket. Here's how to shine:
 
-    Personal Essays: Share your story, motivations, and experiences. Authenticity is key.​
+- **Personal Essays**: Share your story, motivations, and experiences. Authenticity is key.
+- **Transparency**: Disclose any current or potential commitments, including job applications or offers. Honesty fosters trust.​
+- **Attention to Detail**: Ensure your application is complete and error-free. First impressions matter!​
 
-    Transparency: Disclose any current or potential commitments, including job applications or offers. Honesty fosters trust.​
+![A graphic with tips for a compelling application](https://github.com/user-attachments/assets/31a623a7-265e-49e4-a8ef-e77ed8a8a2ba)
+*A graphic with tips for a compelling application*
 
-    Attention to Detail: Ensure your application is complete and error-free. First impressions matter!​
+## 5. Selecting the Right Project: Finding Your Niche
 
-Visual Aid: An infographic with tips for a compelling application.
+Nice. Your initial application has been approved! With a smorgasbord of projects available, choosing one can be daunting. Consider:
 
-5. Selecting the Right Project: Finding Your Niche
+- **Alignment with Interests**: Pick a project that resonates with your passions and career goals.​
+- **Skill Level**: Assess the required skills and ensure they match your current abilities or areas you wish to develop.​ Skill levels are numbered 1 to 5 with 5 being Challenge, 4: Comfortable, 3: Experimented, 2: Concepts and 1: No knowledge required.
+- **Community Culture**: Engage with the project's community to gauge if it's a good fit.​
 
-With a smorgasbord of projects available, choosing one can be daunting. Consider:
-
-    Alignment with Interests: Pick a project that resonates with your passions and career goals.​
-    outreachy.org
-
-    Skill Level: Assess the required skills and ensure they match your current abilities or areas you wish to develop.​
-
-    Community Culture: Engage with the project's community to gauge if it's a good fit.​
-
-Explore available projects on the Outreachy Project Selection Page.
-
-Visual Aid: A decision tree to help choose the right project.
-
-6. Making Your First Contribution: Dive In!
+## 6. Making Your First Contribution: Dive In!
 
 Once you've selected a project:
+- **Understand the Codebase**: Familiarize yourself with the project's structure and guidelines.​
+- **Start Small**: Tackle beginner-friendly issues to build confidence and rapport with the community.​
+- **Seek Feedback**: Don't hesitate to ask questions and request reviews on your contributions.​
 
-    Understand the Codebase: Familiarize yourself with the project's structure and guidelines.​
-
-    Start Small: Tackle beginner-friendly issues to build confidence and rapport with the community.​
-
-    Seek Feedback: Don't hesitate to ask questions and request reviews on your contributions.​
-
-Visual Aid: A flowchart depicting the contribution process.
-
-7. Engaging with the Community: Building Bridges
+## 7. Engaging with the Community: Building Bridges
 
 Open source thrives on collaboration. To integrate seamlessly:
 
-    Join Communication Channels: Subscribe to mailing lists, join Slack or IRC channels, and participate in forums.​
-
-    Attend Meetings: Be present in community calls or meetings to stay informed and connected.​
-
-    Be Respectful: Embrace the community's code of conduct and foster positive interactions.​
-    outreachy.org
-
-Visual Aid: A world map highlighting global collaboration.
-
+- **Join Communication Channels**: Subscribe to mailing lists, join Slack or IRC channels, and participate in forums.​
+- **Attend Meetings**: Be present in community calls or meetings to stay informed and connected.​
+- **Be Respectful**: Embrace the community's code of conduct and foster positive interactions.​
+  
 8. Documenting Your Journey: Blog It Out
 
 Outreachy encourages interns to maintain a blog. This serves to:
 
-    Reflect on Experiences: Articulate your learning and growth throughout the internship.​
+- **Reflect on Experiences**: Articulate your learning and growth throughout the internship.​
+- **Share Knowledge**: Contribute to the community by documenting challenges and solutions.​
+- **Build a Portfolio**: Showcase your work to potential employers or collaborators.​
 
-    Share Knowledge: Contribute to the community by documenting challenges and solutions.​
+![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/99972742-e2b2-4347-adf8-51c6a95f0a16)
+*A screenshot of a sample Outreachy intern blog*
 
-    Build a Portfolio: Showcase your work to potential employers or collaborators.​
-
-Visual Aid: A screenshot of a sample Outreachy intern blog.
-
-9. Preparing for the Unexpected: Stay Agile
+## 9. Preparing for the Unexpected: Stay Agile
 
 Flexibility is vital. If challenges arise:
+- **Communicate Promptly**: Inform your mentor or the Outreachy organizers about any issues.​
+- **Seek Support**: Utilize community resources and don't shoulder burdens alone.​
+- **Adapt and Overcome**: Embrace challenges as opportunities for growth.​
 
-    Communicate Promptly: Inform your mentor or the Outreachy organizers about any issues.​
-    outreachy.org
+![An image depicting resilience, like a sprouting plant through concrete](https://github.com/user-attachments/assets/408cc3dc-c107-4468-ab0a-118402337c00)
+*An image depicting resilience, like a sprouting plant through concrete*
 
-    Seek Support: Utilize community resources and don't shoulder burdens alone.​
-
-    Adapt and Overcome: Embrace challenges as opportunities for growth.​
-
-Visual Aid: An image depicting resilience, like a sprouting plant through concrete.
-
-10. Embracing the Experience: Enjoy the Ride
+## 10. Embracing the Experience: Enjoy the Ride
 
 Remember, Outreachy is more than just an internship—it's a journey into the heart of open source. So:
 
-    Stay Curious: Continuously seek knowledge and new experiences.​
+- **Stay Curious**: Continuously seek knowledge and new experiences.​
+- **Build Relationships**: Forge connections that may last well beyond the internship.​
+- **Celebrate Milestones**: Acknowledge and rejoice in your achievements, big or small.​
 
-    Build Relationships: Forge connections that may last well beyond the internship.​
-
-    Celebrate Milestones: Acknowledge and rejoice in your achievements, big or small.​
-
-Visual Aid: A celebratory image of diverse individuals collaborating.
-
-Final Thoughts
+# Final Thoughts
 
 Embarking on the Outreachy internship is like planting a seed in the fertile ground of open source. With dedication, curiosity, and collaboration, you'll not only grow but also contribute to a flourishing ecosystem. So, set sail with enthusiasm, and may your Outreachy journey be both enlightening and rewarding!
 
-Visual Aid: An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey.
+![An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey.](https://github.com/user-attachments/assets/ec37aed5-9e58-4152-82c3-cfe32c7ab654)
+*An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey* 
 
-Note: For the most accurate and up-to-date information, always refer to the official Outreachy website.
+**Note**: For the most accurate and up-to-date information, always refer to the official Outreachy website.
