@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreachy Onboarding 101&column; From App-lication To App-reciation
+title: Outreachy Onboarding 101\: From App-lication To App-reciation
 ---
 
 So, you’re thinking of hopping aboard the Outreachy express? 🎢 Fantastic choice! Outreachy is like the Willy Wonka’s factory of open source—where creativity, innovation, and diversity come together to make something truly magical. But unlike a golden ticket, you’ve got to work your way in. Embarking on the Outreachy journey is also akin to setting sail on the vast ocean of open source—a voyage filled with discovery, learning, and the occasional "Aha!" moment. If you're ready to don your explorer's hat and navigate the exciting waters of Outreachy, this guide is your trusty compass. Let's chart the course to a successful onboarding: here’s your roadmap to not just apply, but to thrive!
@@ -10,7 +10,7 @@ So, you’re thinking of hopping aboard the Outreachy express? 🎢 Fantastic ch
 Outreachy isn't your run-of-the-mill internship program. It's a vibrant initiative designed to support diversity in tech by providing paid, remote internships in open source and open science. Whether you're into coding, design, documentation, or community engagement, [Outreachy](https://www.outreachy.org) offers a plethora of projects to dive into.​
 
 ![A mosaic of diverse individuals collaborating across the globe](https://github.com/user-attachments/assets/3b839053-3f8c-4042-853d-9a410a3d1b85)
-
+<br>
 *A mosaic of diverse individuals collaborating across the globe*
 
 ## 2. Checking Eligibility: Are You on the Guest List?
@@ -24,13 +24,13 @@ Before you RSVP to this grand tech party, ensure you meet the eligibility criter
 For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/).
 
 ![A checklist graphic highlighting eligibility criteria](https://github.com/user-attachments/assets/6c4c5ccc-faad-4e58-bc65-70e75f9d0155)
-
+<br>
 *A checklist graphic highlighting eligibility criteria*
 
 ## 3. Marking Your Calendar: Important Dates
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 ![Outreachy Annual Timeline](https://github.com/user-attachments/assets/0e648568-75b1-48e4-908f-601299c94d03)
-
+<br>
 *The Outreachy Annual Timeline*
 
 
@@ -49,7 +49,7 @@ Your initial application is your golden ticket. Here's how to shine:
 - **Attention to Detail**: Ensure your application is complete and error-free. First impressions matter!​
 
 ![A graphic with tips for a compelling application](https://github.com/user-attachments/assets/31a623a7-265e-49e4-a8ef-e77ed8a8a2ba)
-
+<br>
 *A graphic with tips for a compelling application*
 
 ## 5. Selecting the Right Project: Finding Your Niche
@@ -84,7 +84,7 @@ Outreachy encourages interns to maintain a blog. This serves to:
 - **Build a Portfolio**: Showcase your work to potential employers or collaborators.​
 
 ![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/99972742-e2b2-4347-adf8-51c6a95f0a16)
-
+<br>
 *A screenshot of a sample Outreachy intern blog*
 
 ## 9. Preparing for the Unexpected: Stay Agile
@@ -95,7 +95,7 @@ Flexibility is vital. If challenges arise:
 - **Adapt and Overcome**: Embrace challenges as opportunities for growth.​
 
 ![An image depicting resilience, like a sprouting plant through concrete](https://github.com/user-attachments/assets/408cc3dc-c107-4468-ab0a-118402337c00)
-
+<br>
 *An image depicting resilience, like a sprouting plant through concrete*
 
 ## 10. Embracing the Experience: Enjoy the Ride
@@ -111,7 +111,7 @@ Remember, Outreachy is more than just an internship—it's a journey into the he
 Embarking on the Outreachy internship is like planting a seed in the fertile ground of open source. With dedication, curiosity, and collaboration, you'll not only grow but also contribute to a flourishing ecosystem. So, set sail with enthusiasm, and may your Outreachy journey be both enlightening and rewarding!
 
 ![An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey.](https://github.com/user-attachments/assets/ec37aed5-9e58-4152-82c3-cfe32c7ab654)
-
+<br>
 *An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey* 
 
 **Please Note**: For the most accurate and up-to-date information, always refer to the official Outreachy website.
