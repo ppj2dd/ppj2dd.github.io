@@ -11,6 +11,8 @@ Outreachy isn't your run-of-the-mill internship program. It's a vibrant initiati
 
 ![A mosaic of diverse individuals collaborating across the globe](https://github.com/user-attachments/assets/3b839053-3f8c-4042-853d-9a410a3d1b85)
 
+*A mosaic of diverse individuals collaborating across the globe*
+
 ## 2. Checking Eligibility: Are You on the Guest List?
 
 Before you RSVP to this grand tech party, ensure you meet the eligibility criteria:
@@ -22,11 +24,13 @@ Before you RSVP to this grand tech party, ensure you meet the eligibility criter
 For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/).
 
 ![A checklist graphic highlighting eligibility criteria](https://github.com/user-attachments/assets/6c4c5ccc-faad-4e58-bc65-70e75f9d0155)
+
 *A checklist graphic highlighting eligibility criteria*
 
 ## 3. Marking Your Calendar: Important Dates
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 ![Outreachy Annual Timeline](https://github.com/user-attachments/assets/0e648568-75b1-48e4-908f-601299c94d03)
+
 *The Outreachy Annual Timeline*
 
 
@@ -45,6 +49,7 @@ Your initial application is your golden ticket. Here's how to shine:
 - **Attention to Detail**: Ensure your application is complete and error-free. First impressions matter!​
 
 ![A graphic with tips for a compelling application](https://github.com/user-attachments/assets/31a623a7-265e-49e4-a8ef-e77ed8a8a2ba)
+
 *A graphic with tips for a compelling application*
 
 ## 5. Selecting the Right Project: Finding Your Niche
@@ -79,6 +84,7 @@ Outreachy encourages interns to maintain a blog. This serves to:
 - **Build a Portfolio**: Showcase your work to potential employers or collaborators.​
 
 ![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/99972742-e2b2-4347-adf8-51c6a95f0a16)
+
 *A screenshot of a sample Outreachy intern blog*
 
 ## 9. Preparing for the Unexpected: Stay Agile
@@ -89,6 +95,7 @@ Flexibility is vital. If challenges arise:
 - **Adapt and Overcome**: Embrace challenges as opportunities for growth.​
 
 ![An image depicting resilience, like a sprouting plant through concrete](https://github.com/user-attachments/assets/408cc3dc-c107-4468-ab0a-118402337c00)
+
 *An image depicting resilience, like a sprouting plant through concrete*
 
 ## 10. Embracing the Experience: Enjoy the Ride
@@ -104,6 +111,7 @@ Remember, Outreachy is more than just an internship—it's a journey into the he
 Embarking on the Outreachy internship is like planting a seed in the fertile ground of open source. With dedication, curiosity, and collaboration, you'll not only grow but also contribute to a flourishing ecosystem. So, set sail with enthusiasm, and may your Outreachy journey be both enlightening and rewarding!
 
 ![An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey.](https://github.com/user-attachments/assets/ec37aed5-9e58-4152-82c3-cfe32c7ab654)
+
 *An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey* 
 
-**Note**: For the most accurate and up-to-date information, always refer to the official Outreachy website.
+**Please Note**: For the most accurate and up-to-date information, always refer to the official Outreachy website.
