@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreachy Onboarding 101\: From App-lication to App-reciation
+title: Outreachy Onboarding 101&column; From App-lication to App-reciation
 ---
 
 So, you’re thinking of hopping aboard the Outreachy express? 🎢 Fantastic choice! Outreachy is like the Willy Wonka’s factory of open source—where creativity, innovation, and diversity come together to make something truly magical. But unlike a golden ticket, you’ve got to work your way in. Embarking on the Outreachy journey is also akin to setting sail on the vast ocean of open source—a voyage filled with discovery, learning, and the occasional "Aha!" moment. If you're ready to don your explorer's hat and navigate the exciting waters of Outreachy, this guide is your trusty compass. Let's chart the course to a successful onboarding: here’s your roadmap to not just apply, but to thrive!
