@@ -11,24 +11,19 @@ Outreachy isn't your run-of-the-mill internship program. It's a vibrant initiati
 
 ![A mosaic of diverse individuals collaborating across the globe](https://github.com/user-attachments/assets/3b839053-3f8c-4042-853d-9a410a3d1b85)
 
-2. Checking Eligibility: Are You on the Guest List?
+## 2. Checking Eligibility: Are You on the Guest List?
 
 Before you RSVP to this grand tech party, ensure you meet the eligibility criteria:
 
-    Time Commitment: Be prepared to dedicate 30 hours per week for the 13-week duration of the internship.​
-    outreachy.org+4outreachy.org+4outreachy.org+4
+- **Time Commitment**: Be prepared to dedicate at least 30 hours per week for the 13-week duration of the internship.​
+- **No Overlapping Commitments**: You shouldn't have another internship or a full-time job during this period. Part-time jobs may be considered but need approval.​
+- **Student Status**: Both students and non-students are welcome, but students must have 42 consecutive days free from academic obligations during the internship.​
 
-    No Overlapping Commitments: You shouldn't have another internship or a full-time job during this period. Part-time jobs may be considered but need approval.​
-    outreachy.org+2outreachy.org+2Medium+2
-
-    Student Status: Both students and non-students are welcome, but students must have 42 consecutive days free from academic obligations during the internship.​
-    outreachy.org
-
-For a detailed breakdown, peruse the Outreachy Applicant Guide.
+For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/).
 
 Visual Aid: A checklist graphic highlighting eligibility criteria.
 
-3. Marking Your Calendar: Important Dates
+## 3. Marking Your Calendar: Important Dates
 
 Timing is everything! For the June 2025 cohort:
 
