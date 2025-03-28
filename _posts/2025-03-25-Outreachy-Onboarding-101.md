@@ -30,6 +30,24 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 ## 3. Marking Your Calendar: Important Dates
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
+<table>
+  <tr>
+    <th>Important Round Dates</th>
+    <th>Mid-Year Internships</th>
+    <th>End of Year Internships</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 | Important Round Dates | Mid-Year Internships | End of Year Internships |
 | ----------- | ----------- | ----------- |
 | Call for Mentoring communities open | early January | early August |
