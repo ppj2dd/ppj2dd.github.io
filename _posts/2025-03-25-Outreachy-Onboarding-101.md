@@ -11,7 +11,6 @@ Outreachy isn't your run-of-the-mill internship program. It's a vibrant initiati
 
 ![A mosaic of diverse individuals collaborating across the globe](https://github.com/user-attachments/assets/3b839053-3f8c-4042-853d-9a410a3d1b85)
 <br>
-*A mosaic of diverse individuals collaborating across the globe*
 
 ## 2. Checking Eligibility: Are You on the Guest List?
 
@@ -25,23 +24,22 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 
 ![A checklist graphic highlighting eligibility criteria](https://github.com/user-attachments/assets/6c4c5ccc-faad-4e58-bc65-70e75f9d0155)
 <br>
-*A checklist graphic highlighting eligibility criteria*
 
 ## 3. Marking Your Calendar: Important Dates
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
-
+<table>
 | Important Round Dates | Mid-Year Internships | End of Year Internships |
-| ----------- | ----------- | ----------- | <br>
-| Call for Mentoring communities open | early January | early August | <br>
+| ----------- | ----------- | ----------- |
+| Call for mentoring communities open | early January | early August | <br>
 | Initial Applications open | early February | late August | <br>
 | Initial Applications due | end of February | early September | <br>
 | Contribution period opens | mid March | early October | <br>
-| Contribution periof ends | mid April | end of October | <br>
+| Contribution period ends | mid April | end of October | <br>
 | Interns announced | mid May | late November | <br>
 | Internships start | May | December | <br>
 | Internships End | August | March  |
-
+</table>
 
 Timing is everything! For the June 2025 cohort, this was the timeline:
 - **Initial Application Period**: February 7 to February 15, 2025.​
@@ -61,7 +59,6 @@ Your initial application is your golden ticket. Here's how to shine:
 
 ![A graphic with tips for a compelling application](https://github.com/user-attachments/assets/31a623a7-265e-49e4-a8ef-e77ed8a8a2ba)
 <br>
-*A graphic with tips for a compelling application*
 
 ## 5. Selecting the Right Project: Finding Your Niche
 
@@ -96,7 +93,6 @@ Outreachy encourages interns to maintain a blog. This serves to:
 
 ![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/99972742-e2b2-4347-adf8-51c6a95f0a16)
 <br>
-*A screenshot of a sample Outreachy intern blog*
 
 ## 9. Preparing for the Unexpected: Stay Agile
 
@@ -107,7 +103,6 @@ Flexibility is vital. If challenges arise:
 
 ![An image depicting resilience, like a sprouting plant through concrete](https://github.com/user-attachments/assets/408cc3dc-c107-4468-ab0a-118402337c00)
 <br>
-*An image depicting resilience, like a sprouting plant through concrete*
 
 ## 10. Embracing the Experience: Enjoy the Ride
 
@@ -123,6 +118,5 @@ Embarking on the Outreachy internship is like planting a seed in the fertile gro
 
 ![An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey.](https://github.com/user-attachments/assets/ec37aed5-9e58-4152-82c3-cfe32c7ab654)
 <br>
-*An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey* 
 
 **Please Note**: For the most accurate and up-to-date information, always refer to the official [Outreachy Docs](https://www.outreachy.org/docs).
