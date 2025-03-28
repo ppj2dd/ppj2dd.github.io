@@ -28,9 +28,9 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 ## 3. Marking Your Calendar: Important Dates
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
-<table>
-| Important Round Dates | Mid-Year Internships | End of Year Internships |
-| ----------- | ----------- | ----------- |
+
+| Important Round Dates | Mid-Year Internships | End of Year Internships |  \n
+| ----------- | ----------- | ----------- | \n
 | Call for mentoring communities open | early January | early August | <br>
 | Initial Applications open | early February | late August | <br>
 | Initial Applications due | end of February | early September | <br>
@@ -39,7 +39,6 @@ Outreachy internships run twice a year. Below is a general timeline for any give
 | Interns announced | mid May | late November | <br>
 | Internships start | May | December | <br>
 | Internships End | August | March  |
-</table>
 
 Timing is everything! For the June 2025 cohort, this was the timeline:
 - **Initial Application Period**: February 7 to February 15, 2025.​
