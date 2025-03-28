@@ -29,8 +29,8 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
 
-| Important Round Dates | Mid-Year Internships | End of Year Internships |  \n
-| ----------- | ----------- | ----------- | \n
+| Important Round Dates | Mid-Year Internships | End of Year Internships | 
+| ----------- | ----------- | ----------- |
 | Call for mentoring communities open | early January | early August | <br>
 | Initial Applications open | early February | late August | <br>
 | Initial Applications due | end of February | early September | <br>
@@ -82,7 +82,7 @@ Open source thrives on collaboration. To integrate seamlessly:
 - **Attend Meetings**: Be present in community calls or meetings to stay informed and connected.​
 - **Be Respectful**: Embrace the community's code of conduct and foster positive interactions.​
   
-8. Documenting Your Journey: Blog It Out
+## 8. Documenting Your Journey: Blog It Out
 
 Outreachy encourages interns to maintain a blog. This serves to:
 
