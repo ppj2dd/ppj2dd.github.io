@@ -31,15 +31,15 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
 
-| Important Round Dates |  | Mid-Year Internships |  | End of Year Internships |
-| ----------- | ----------- | ----------- |
-| Call for Mentoring communities open  |  | early January |  | early August |
-| Initial Applications open | early February | late August |
-| Initial Applications due | end of February | early September |
-| Contribution period opens | mid March | early October |
-| Contribution periof ends | mid April | end of October |
-| Interns announced | mid May | late November |
-| Internships start | May | December |
+| Important Round Dates | Mid-Year Internships | End of Year Internships | <br>
+| ----------- | ----------- | ----------- | <br>
+| Call for Mentoring communities open  |  | early January |  | early August | <br>
+| Initial Applications open | early February | late August | <br>
+| Initial Applications due | end of February | early September | <br>
+| Contribution period opens | mid March | early October | <br>
+| Contribution periof ends | mid April | end of October | <br>
+| Interns announced | mid May | late November | <br>
+| Internships start | May | December | <br>
 | Internships End | August | March  |
 
 
