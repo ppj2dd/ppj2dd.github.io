@@ -29,22 +29,32 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 
 ## 3. Marking Your Calendar: Important Dates
 Outreachy internships run twice a year. Below is a general timeline for any given year:
-![Outreachy Annual Timeline](https://github.com/user-attachments/assets/0e648568-75b1-48e4-908f-601299c94d03)
-<br>
-*The Outreachy Annual Timeline*
 
+| Important Round Dates | Mid-Year Internships | End of Year Internships |
+| ----------- | ----------- | ----------- |
+| Call for Mentoring communities open | early January | early August |
+| Initial Applications open | early February | late August |
+| Initial Applications due | end of February | early September |
+| Contribution period opens | mid March | early October |
+| Contribution periof ends | mid April | end of October |
+| Interns announced | mid May | late November |
+| Internships start | May | December |
+| Internships End | August | March  |
+<br>
 
 Timing is everything! For the June 2025 cohort, this was the timeline:
 - **Initial Application Period**: February 7 to February 15, 2025.​
+- **Interns Announced**: March 17 2025
+- **Contribution Period**: March 17, 2025 to April 15, 2025.
 - **Internship Duration**: June 2 to August 29, 2025.​
     
-Stay updated with the Outreachy Schedule.
+Always stay updated with the Outreachy Schedule.
 
 ## 4. Crafting a Stellar Initial Application
 
 Your initial application is your golden ticket. Here's how to shine:
 
-- **Personal Essays**: Share your story, motivations, and experiences. Authenticity is key.
+- **Personal Essays**: Share your story, motivations, and experiences. Authenticity is key. There will be four essay questions, and you may need to include links to statistics, articles, or blogs posts.
 - **Transparency**: Disclose any current or potential commitments, including job applications or offers. Honesty fosters trust.​
 - **Attention to Detail**: Ensure your application is complete and error-free. First impressions matter!​
 
@@ -54,7 +64,7 @@ Your initial application is your golden ticket. Here's how to shine:
 
 ## 5. Selecting the Right Project: Finding Your Niche
 
-Nice. Your initial application has been approved! With a smorgasbord of projects available, choosing one can be daunting. Consider:
+Nice. Your initial application has been approved: you can now access the list of organizations and their available projects. With a smorgasbord of projects available, choosing one can be daunting. Consider:
 
 - **Alignment with Interests**: Pick a project that resonates with your passions and career goals.​
 - **Skill Level**: Assess the required skills and ensure they match your current abilities or areas you wish to develop.​ Skill levels are numbered 1 to 5 with 5 being Challenge, 4: Comfortable, 3: Experimented, 2: Concepts and 1: No knowledge required.
