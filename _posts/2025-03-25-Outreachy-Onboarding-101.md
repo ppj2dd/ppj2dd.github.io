@@ -31,7 +31,7 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
 
-| Important Round Dates | Mid-Year Internships | End of Year Internships | <br>
+| Important Round Dates | Mid-Year Internships | End of Year Internships |
 | ----------- | ----------- | ----------- | <br>
 | Call for Mentoring communities open | early January | early August | <br>
 | Initial Applications open | early February | late August | <br>
