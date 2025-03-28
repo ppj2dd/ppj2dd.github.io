@@ -31,21 +31,21 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
 <table>
-  <tr>
-    <th>Important Round Dates</th>
-    <th>Mid-Year Internships</th>
-    <th>End of Year Internships</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+  <pre>
+    <tr>
+      <th>Important Round Dates</th>&#9;<th>Mid-Year Internships</th>&#9;<th>End of Year Internships</th>
+    </tr>
+    <tr>
+      <td>Alfreds Futterkiste</td>
+      <td>Maria Anders</td>
+      <td>Germany</td>
+    </tr>
+    <tr>
+      <td>Centro comercial Moctezuma</td>
+      <td>Francisco Chang</td>
+      <td>Mexico</td>
+    </tr>
+  </pre> 
 </table>
 
 | Important Round Dates | Mid-Year Internships | End of Year Internships |
@@ -58,6 +58,7 @@ Outreachy internships run twice a year. Below is a general timeline for any give
 | Interns announced | mid May | late November |
 | Internships start | May | December |
 | Internships End | August | March  |
+
 <br>
 
 Timing is everything! For the June 2025 cohort, this was the timeline:
