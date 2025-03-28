@@ -142,4 +142,4 @@ Embarking on the Outreachy internship is like planting a seed in the fertile gro
 <br>
 *An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey* 
 
-**Please Note**: For the most accurate and up-to-date information, always refer to the official [Outreachy website](https://www.outreachy.org).
+**Please Note**: For the most accurate and up-to-date information, always refer to the official [Outreachy Docs](https://www.outreachy.org/docs).
