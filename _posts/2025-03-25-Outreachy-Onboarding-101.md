@@ -61,7 +61,7 @@ Your initial application is your golden ticket. Here's how to shine:
 
 ## 5. Selecting the Right Project: Finding Your Niche
 
-Nice. Your initial application has been approved: you can now access the list of organizations and their available projects. With a smorgasbord of projects available, choosing one can be daunting. Consider:
+Nice. Your initial application has been approved: you can now access the list of organisations and their available projects. With a smorgasbord of projects available, choosing one can be daunting. Consider:
 
 - **Alignment with Interests**: Pick a project that resonates with your passions and career goals.​
 - **Skill Level**: Assess the required skills and ensure they match your current abilities or areas you wish to develop.​ Skill levels are numbered 1 to 5 with 5 being Challenge, 4: Comfortable, 3: Experimented, 2: Concepts and 1: No knowledge required.
@@ -70,7 +70,7 @@ Nice. Your initial application has been approved: you can now access the list of
 ## 6. Making Your First Contribution: Dive In!
 
 Once you've selected a project:
-- **Understand the Codebase**: Familiarize yourself with the project's structure and guidelines.​
+- **Understand the Codebase**: Familiarise yourself with the project's structure and guidelines.​
 - **Start Small**: Tackle beginner-friendly issues to build confidence and rapport with the community.​
 - **Seek Feedback**: Don't hesitate to ask questions and request reviews on your contributions.​
 
@@ -96,8 +96,8 @@ Outreachy encourages interns to maintain a blog. This serves to:
 ## 9. Preparing for the Unexpected: Stay Agile
 
 Flexibility is vital. If challenges arise:
-- **Communicate Promptly**: Inform your mentor or the Outreachy organizers about any issues.​
-- **Seek Support**: Utilize community resources and don't shoulder burdens alone.​
+- **Communicate Promptly**: Inform your mentor or the Outreachy organisers about any issues.​
+- **Seek Support**: Utilise community resources and don't shoulder burdens alone.​
 - **Adapt and Overcome**: Embrace challenges as opportunities for growth.​
 
 ![An image depicting resilience, like a sprouting plant through concrete](https://github.com/user-attachments/assets/408cc3dc-c107-4468-ab0a-118402337c00)
@@ -115,7 +115,7 @@ Remember, Outreachy is more than just an internship—it's a journey into the he
 
 Embarking on the Outreachy internship is like planting a seed in the fertile ground of open source. With dedication, curiosity, and collaboration, you'll not only grow but also contribute to a flourishing ecosystem. So, set sail with enthusiasm, and may your Outreachy journey be both enlightening and rewarding!
 
-![An inspiring image of a ship sailing towards the horizon, symbolizing the start of a new journey.](https://github.com/user-attachments/assets/ec37aed5-9e58-4152-82c3-cfe32c7ab654)
+![An inspiring image of a ship sailing towards the horizon, symbolising the start of a new journey.](https://github.com/user-attachments/assets/ec37aed5-9e58-4152-82c3-cfe32c7ab654)
 <br>
 
 **Please Note**: For the most accurate and up-to-date information, always refer to the official [Outreachy Docs](https://www.outreachy.org/docs).
