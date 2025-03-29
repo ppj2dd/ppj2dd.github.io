@@ -71,7 +71,7 @@ If you’re eyeing Outreachy 2026 and planning to contribute to Fedora, here are
 
 - **Jump In and Engage with the Community**: Ask questions, join discussions (including mailing lists, forums or chat channels), and don’t hesitate to reach out for help. Don’t worry if you don’t understand everything at first. The Fedora folks are incredibly welcoming, and there are plenty of resources to help you learn.
 - **Embrace Learning**: Be prepared to explore new concepts. Open-source contributions often involve picking up new skills along the way.
-- **Start Small**: Begin with simple tasks to familiarize yourself with Fedora’s workflow before diving into bigger projects.
+- **Start Small**: Begin with simple tasks to familiarise yourself with Fedora’s workflow before diving into bigger projects.
 - **Stay Curious**: Fedora is all about innovation—keep your curiosity alive!
 - **Embrace the Four Foundations**: Let the values guide you through your journey. They’ll not only help you navigate Fedora but also inspire your contributions.
 
