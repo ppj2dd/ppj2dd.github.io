@@ -85,6 +85,6 @@ So, next time someone mentions Fedora, you can confidently say, "It's more than 
 I hope this introduction helps demystify the project and inspires you to get involved. Welcome aboard! Happy contributing, and remember: you are smart, you are capable, and you are welcome here!
 
 ### Want to learn more?
-Check out the [Fedora Project website](https://fedoraproject.org/) for a deeper dive, or explore Fedora Linux directly by downloading it [here](https://getfedora.org/). Check out the [Fedora Community Documentation](https://docs.fedoraproject.org/) too!
+Check out the [Fedora Project website](https://fedoraproject.org/) for a deeper dive, or explore Fedora Linux directly by downloading it [here](https://getfedora.org/). Check out the [Fedora Community Documentation](https://docs.fedoraproject.org/) too! And while you're at it, see if any [Special Interest Group interests you](https://fedoraproject.org/wiki/Category:SIGs).
 
 And that’s your friendly introduction to Fedora—ready for you to dive in!
