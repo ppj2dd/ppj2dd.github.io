@@ -92,8 +92,8 @@ Outreachy encourages interns to maintain a blog. This serves to:
 - **Share Knowledge**: Contribute to the community by documenting challenges and solutions.​
 - **Build a Portfolio**: Showcase your work to potential employers or collaborators.​
 
-![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/99972742-e2b2-4347-adf8-51c6a95f0a16)
-<br>
+![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/49c15e30-fcfe-47a9-87ab-4eaf7fea72c9)
+
 
 ## 9. Preparing for the Unexpected: Stay Agile
 
