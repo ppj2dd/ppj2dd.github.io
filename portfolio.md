@@ -1,4 +1,10 @@
-# List of Issues Solved
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
+
+# Portfolio
 
 ### [Issue #1: Set up your Fedora Account System (FAS) account](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/1)
 
