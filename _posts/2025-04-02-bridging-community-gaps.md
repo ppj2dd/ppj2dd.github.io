@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Hey there, thanks for visiting!
+title: Bridging the Gap: Nurturing Local Tech Communities for a Brighter Future
 ---
-
-**Bridging the Gap: Nurturing Local Tech Communities for a Brighter Future**
 
 My journey in the tech community began with an unexpected initiation—a moment filled with both apprehension and the promise of transformation. On the day I first set foot in the university, I stepped into a vibrant but challenging environment. Unlike the traditional academic path, my entry was marked by a competitive spirit and an eagerness to learn among peers from varied backgrounds. This unique initiation has profoundly shaped my understanding of community, leadership, and the collective challenges we face.
 
