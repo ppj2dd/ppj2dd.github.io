@@ -4,8 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Portfolio
-
 ### [Issue #1: Set up your Fedora Account System (FAS) account](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/1)
 
 - [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/1#note_2412235626)
