@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Good day mentors, here you will find a portfolio of my contributions during the contribution phase. This link is not anywhere on the blog, so, for the world, all they will see is just that: the blog. Thanks a lot for your time to review these. Here goes:
+Good day Mentor(s), here you will find a portfolio of my contributions during the contribution phase. This link is not anywhere on the blog, so, for the world, all they will see is just that: the blog. Thanks a lot for your time to review these. Here goes:
 
 ### [Issue #1: Set up your Fedora Account System (FAS) account](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/1)
 
