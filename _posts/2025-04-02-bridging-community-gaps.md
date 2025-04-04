@@ -3,7 +3,7 @@ layout: post
 title: Charting New Territories&#58; Strengthening Local Tech Communities Through Collaborative Action
 ---
 
-It was on a crisp Tuesday, 17 October 2017, that I first set foot on the university campus—a day that marked the beginning of an unexpected journey. Unlike many who followed a conventional path, my entrance was earned through a competitive exam, an experience that instilled both pride and a sense of trepidation. Stepping into a realm of diverse minds, I quickly realised that every new encounter was an opportunity to learn, yet also a reminder of how vast the world of knowledge truly is.
+It was on a crisp Tuesday in October 2017, that I first set foot on the university campus—a day that marked the beginning of an unexpected journey. Unlike many who followed a conventional path, my entrance was earned through a competitive exam, an experience that instilled both pride and a sense of trepidation. Stepping into a realm of diverse minds, I quickly realised that every new encounter was an opportunity to learn, yet also a reminder of how vast the world of knowledge truly is.
 
 My early days were a mosaic of uplifting guidance and moments when inquisitiveness was met with condescension. The seniors, sometimes generous with their time and other times dismissive, embodied the dual nature of our community. It became evident that in every community, be it academic or professional, the spirit of inclusivity must be nurtured by those in positions of influence. I soon learned to seek support from those who encouraged my growth rather than those who inadvertently stifled it.
 
