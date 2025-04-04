@@ -50,4 +50,4 @@ Good day mentors, here you will find a portfolio of my contributions during the 
 - Timeline: <https://docs.google.com/document/d/1c79t99NeeXuwDTs5m_ao3h-3crl1Bn-s49HKkoW7gsI/edit?usp=sharing>
 - [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/10#note_2425335488)
 
-### [An Event Flyer](https://drive.google.com/file/d/1iE57uJWCmQ8YWDW3amHjCtrI6KJD4E-J/view?usp=sharing)
+### [An Event Flyer](https://github.com/ppj2dd/ppj2dd.github.io/blob/master/images/FedoraImmersionMonth.png)
