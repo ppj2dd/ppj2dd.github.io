@@ -4,6 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+Good day mentors, here you will find a portfolio of my contributions during the contribution phase. This link is not anywhere on the blog, so, for the world, all they will see is just that: the blog. Thanks a lot for your time to review these. Here goes:
+
 ### [Issue #1: Set up your Fedora Account System (FAS) account](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/1)
 
 - [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/1#note_2412235626)
@@ -32,6 +34,11 @@ permalink: /portfolio/
 
 - Blog Post: [https://ppj2dd.github.io/dei-guide](https://ppj2dd.github.io/dei-guide/)
 - [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/6#note_2427611909)
+
+### [Issue #8: Supporting Local Communities](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/8)
+
+- Blog Post: [https://ppj2dd.github.io/dei-guide](https://ppj2dd.github.io/bridging-community-gaps/)
+- [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/8#note_2433946952)
 
 ### [Issue #9:](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/9) [Plan a Fedora event at your university/community](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/9#top)
 
