@@ -14,3 +14,6 @@ I think if you email me, and ask me what you wanna know, I will gladly answer! p
 
 Thanks a lot for visiting. Come again soon!
 ![Thanks for Visiting](images/thanks.jpg)
+
+
+*This blog was built from a fork of [Barry Clark&apos;s Jekyll Now](https://github.com/barryclark/jekyll-now) repo.*
