@@ -7,8 +7,7 @@ If you are here, it means ppj2dd&apos;s blog is up and running!
 
 Thanks for visiting!
 
-
-![image](images/thanks.jpg)
+![image](https://github.com/user-attachments/assets/f902dea0-3bf8-49b1-aa40-6b67f94a29bb)
 
 
 
