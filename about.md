@@ -11,3 +11,5 @@ I think if you email me, and ask me what you wanna know, I will gladly answer! p
 
 ### Contact me
 [Matrix: @ppj2dd:matrix.org](https://matrix.to/#/@ppj2dd:matrix.org?web-instance[element.io]=chat.fedoraproject.org)
+
+![Thanks for Visiting](images/thanks.jpg)
