@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreachy Onboarding 101 (From Application To Appreciation)
+title: Outreachy Onboarding 101&#58; From Application To Appreciation
 ---
 
 So, you’re thinking of hopping aboard the Outreachy Express? 🎢 Fantastic choice! Outreachy is like the Willy Wonka’s factory of open source—where creativity, innovation, and diversity come together to make something truly magical. But unlike a golden ticket, you’ve got to work your way in. 
