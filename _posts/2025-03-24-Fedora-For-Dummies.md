@@ -45,16 +45,16 @@ There are different Fedora editions to fit your needs:
 Fedora’s philosophy revolves around Freedom, Friends, Features, and First—the Four Foundations that guide everything the community does:
 
 1. **Freedom**: Fedora champions open source software freedom, allowing anyone to use, study, modify, and distribute its software freely. This fundamental belif empowers users and developers alike.
-2. **Friends**: Community is king! Fedora unites contributors from around the globe, fostering a welcoming and inclusive environment. This philosophy means **Collabpration** to me because at its core, Fedora is built by a community that values teamwork. Every contribution—no matter how small—helps create a better product.
+2. **Friends**: Community is king! Fedora unites contributors from around the globe, fostering a welcoming and inclusive environment. This philosophy means **Collabooration** to me because at its core, Fedora is built by a community that values teamwork. Every contribution—no matter how small—helps create a better product.
 3. **Features**: Fedora is all about innovation. It brings the latest open-source technologies into your hands faster than you can say “kernel update.” Fedora continuously embraces new ideas and technologies. This drive for innovation means you’re always learning something new.
 4. **First**: Fedora is always ahead of the curve, leading the charge with cutting-edge advancements in technology.
 
-Personally, I find the “Friends” foundation to be Fedora’s secret sauce. The community is like that one group of friends who encourage you to be your best self—tech-wise, of course. Worth noting is that decisions in Fedora are made openly. The project’s governance, discussions, and development are accessible to everyone, ensuring accountability and trust. These foundations remind me daily that Fedora isn’t just an operating system—it’s a way of thinking about technology and community.
+Personally, I find the “Friends” Foundation to be Fedora’s secret sauce. The community is like that one group of friends who encourage you to be your best self—tech-wise, of course. Worth noting is that decisions in Fedora are made openly. The project’s governance, discussions, and development are accessible to everyone, ensuring accountability and trust. These foundations remind me daily that Fedora isn’t just an operating system—it’s a way of thinking about technology and community.
 
 ## What I Find Interesting (and Confusing) About Fedora
 As part of my Outreachy application journey, I’ve had the chance to contribute to the Fedora community. It’s been an enlightening adventure so far—like opening a treasure chest of knowledge.
 ### What’s Interesting
-One of the most exciting things about Fedora is how it stays on the cutting edge. I love that I get to witness—and sometimes even help shape—innovative solutions before they hit the mainstream. The diversity of spins (or editions) of Fedora means there’s a version for almost every need, whether you’re a developer, a casual user, or someone looking for a secure and stable environment.
+One of the most exciting things about Fedora is how it stays on the cutting edge. I love that I get to witness—and could probably even help shape—innovative solutions before they hit the mainstream. The diversity of spins (or editions) of Fedora means there’s a version for almost every need, whether you’re a developer, a casual user, or someone looking for a secure and stable environment.
 
 One thing I found especially fascinating is how Fedora brings together people from all over the world. Coordinating across time zones might seem tricky, but the team makes it work. Fedora operates like a well-oiled, open-source machine.
 
@@ -65,7 +65,7 @@ That said, understanding the nitty-gritty of packaging and workflow can feel lik
 
 
 ## Fedora’s Fun Factor
-Here’s a fun tidbit: Fedora isn’t just about coding and tech. The community also organizes events, mentors newcomers, and collaborates on creative projects like design and documentation. It’s like a vibrant digital village where everyone has a role to play!
+Here’s a fun tidbit: Fedora isn’t just about coding and tech. The community also organises events, mentors newcomers, and collaborates on creative projects like design and documentation. It’s like a vibrant digital village where everyone has a role to play!
 
 
 ## A Bit of Advice for Future Outraechy Applicants
