@@ -5,7 +5,7 @@ title: Fedora For Dummies!
 Hey there, brilliant reader! First of all, let’s set one thing straight: You are absolutely not a dummy. “For Dummies” is just a phrase coined for guides that help smart people (like you!) grasp new and exciting topics without feeling overwhelmed. And here you are, diving into the intriguing universe of [The Fedora Project](https://fedoraproject.org/). So grab a cozy seat and let me take you on a tour!
 
 
-## Navigation
+#### Navigation
 - [Welcome to the World of Fedora: A Community for the Bold and Curious](#welcome)
 - [A Quick History of Which Came First: The Project or the Hat?](#history)
 - [What Happens in Fedora?](#happens)
