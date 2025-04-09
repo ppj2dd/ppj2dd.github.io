@@ -7,14 +7,27 @@ So, you’re thinking of hopping aboard the Outreachy Express? 🎢 Fantastic ch
 
 Embarking on the Outreachy journey is also akin to setting sail on the vast ocean of open source—a voyage filled with discovery, learning, and the occasional "Aha!" moment. If you're ready to don your explorer's hat and navigate the exciting waters of Outreachy, this guide is your trusty compass. Let's chart the course to a successful onboarding: here’s your roadmap to not just apply, but to thrive!
 
-## 1. Understanding Outreachy: More Than Just an Internship
+#### Navigation
+1. [Understanding Outreachy: More Than Just an Internship](#understanding)
+2. [Checking Eligibility: Are You on the Guest List?](#checking)
+3. [Marking Your Calendar: Important Dates](#marking)
+4. [Crafting a Stellar Initial Application](#crafting)
+5. [Selecting the Right Project: Finding Your Niche](#selecting)
+6. [Making Your First Contribution: Dive In!](#making)
+7. [Engaging with the Community: Building Bridges](#engaging)
+8. [Documenting Your Journey: Blog It Out](#documenting)
+9. [Preparing for the Unexpected: Stay Agile](#preparing)
+10. [Embracing the Experience: Enjoy the Ride](#embracing)
+[Final Thoughts](#final)
+
+## 1. Understanding Outreachy: More Than Just an Internship <a name="understanding"></a>
 
 Outreachy isn't your run-of-the-mill internship program. It's a vibrant initiative designed to support diversity in tech by providing paid, remote internships in open source and open science. Whether you're into coding, design, documentation, or community engagement, [Outreachy](https://www.outreachy.org) offers a plethora of projects to dive into.​
 
 ![A mosaic of diverse individuals collaborating across the globe](https://github.com/user-attachments/assets/3b839053-3f8c-4042-853d-9a410a3d1b85)
 <br>
 
-## 2. Checking Eligibility: Are You on the Guest List?
+## 2. Checking Eligibility: Are You on the Guest List? <a name="checking"></a>
 
 Before you RSVP to this grand tech party, ensure you meet the eligibility criteria:
 
@@ -27,7 +40,7 @@ For a detailed breakdown, please peruse the [Outreachy Applicant Guide](https://
 ![A checklist graphic highlighting eligibility criteria](https://github.com/user-attachments/assets/6c4c5ccc-faad-4e58-bc65-70e75f9d0155)
 <br>
 
-## 3. Marking Your Calendar: Important Dates
+## 3. Marking Your Calendar: Important Dates <a name="marking"></a>
 Outreachy internships run twice a year. Below is a general timeline for any given year:
 
 
@@ -50,7 +63,7 @@ Timing is everything! For the June 2025 cohort, this was the timeline:
     
 Always stay updated with the Outreachy Schedule.
 
-## 4. Crafting a Stellar Initial Application
+## 4. Crafting a Stellar Initial Application <a name="crafting"></a>
 
 Your initial application is your golden ticket. Here's how to shine:
 
@@ -61,7 +74,7 @@ Your initial application is your golden ticket. Here's how to shine:
 ![A graphic with tips for a compelling application](https://github.com/user-attachments/assets/31a623a7-265e-49e4-a8ef-e77ed8a8a2ba)
 <br>
 
-## 5. Selecting the Right Project: Finding Your Niche
+## 5. Selecting the Right Project: Finding Your Niche <a name="selecting"></a>
 
 Nice. Your initial application has been approved: you can now access the list of organisations and their available projects. With a smorgasbord of projects available, choosing one can be daunting. Consider:
 
@@ -69,14 +82,14 @@ Nice. Your initial application has been approved: you can now access the list of
 - **Skill Level**: Assess the required skills and ensure they match your current abilities or areas you wish to develop.​ Skill levels are numbered 1 to 5 with 5 being Challenge, 4: Comfortable, 3: Experimented, 2: Concepts and 1: No knowledge required.
 - **Community Culture**: Engage with the project's community to gauge if it's a good fit.​
 
-## 6. Making Your First Contribution: Dive In!
+## 6. Making Your First Contribution: Dive In! <a name="making"></a>
 
 Once you've selected a project:
 - **Understand the Codebase**: Familiarise yourself with the project's structure and guidelines.​
 - **Start Small**: Tackle beginner-friendly issues to build confidence and rapport with the community.​
 - **Seek Feedback**: Don't hesitate to ask questions and request reviews on your contributions.​
 
-## 7. Engaging with the Community: Building Bridges
+## 7. Engaging with the Community: Building Bridges <a name="engaging"></a>
 
 Open source thrives on collaboration. To integrate seamlessly:
 
@@ -84,7 +97,7 @@ Open source thrives on collaboration. To integrate seamlessly:
 - **Attend Meetings**: Be present in community calls or meetings to stay informed and connected.​
 - **Be Respectful**: Embrace the community's code of conduct and foster positive interactions.​
   
-## 8. Documenting Your Journey: Blog It Out
+## 8. Documenting Your Journey: Blog It Out <a name="documenting"></a>
 
 Outreachy encourages interns to maintain a blog. This serves to:
 
@@ -95,7 +108,7 @@ Outreachy encourages interns to maintain a blog. This serves to:
 ![A screenshot of a sample Outreachy intern blog](https://github.com/user-attachments/assets/49c15e30-fcfe-47a9-87ab-4eaf7fea72c9)
 
 
-## 9. Preparing for the Unexpected: Stay Agile
+## 9. Preparing for the Unexpected: Stay Agile <a name="preparing"></a>
 
 Flexibility is vital. If challenges arise:
 - **Communicate Promptly**: Inform your mentor or the Outreachy organisers about any issues.​
@@ -105,7 +118,7 @@ Flexibility is vital. If challenges arise:
 ![An image depicting resilience, like a sprouting plant through concrete](https://github.com/user-attachments/assets/408cc3dc-c107-4468-ab0a-118402337c00)
 <br>
 
-## 10. Embracing the Experience: Enjoy the Ride
+## 10. Embracing the Experience: Enjoy the Ride <a name="embracing"></a>
 
 Remember, Outreachy is more than just an internship—it's a journey into the heart of open source. So:
 
@@ -113,7 +126,7 @@ Remember, Outreachy is more than just an internship—it's a journey into the he
 - **Build Relationships**: Forge connections that may last well beyond the internship.​
 - **Celebrate Milestones**: Acknowledge and rejoice in your achievements, big or small.​
 
-# Final Thoughts
+# Final Thoughts <a name="final"></a>
 
 Embarking on the Outreachy internship is like planting a seed in the fertile ground of open source. With dedication, curiosity, and collaboration, you'll not only grow but also contribute to a flourishing ecosystem. So, set sail with enthusiasm, and may your Outreachy journey be both enlightening and rewarding!
 
