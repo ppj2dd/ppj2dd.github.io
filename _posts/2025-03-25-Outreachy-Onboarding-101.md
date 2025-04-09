@@ -17,7 +17,7 @@ Embarking on the Outreachy journey is also akin to setting sail on the vast ocea
 7. [Engaging with the Community: Building Bridges](#engaging)
 8. [Documenting Your Journey: Blog It Out](#documenting)
 9. [Preparing for the Unexpected: Stay Agile](#preparing)
-10. [Embracing the Experience: Enjoy the Ride](#embracing)
+10. [Embracing the Experience: Enjoy the Ride](#embracing) <br/>
 [Final Thoughts](#final)
 
 ## 1. Understanding Outreachy: More Than Just an Internship <a name="understanding"></a>
