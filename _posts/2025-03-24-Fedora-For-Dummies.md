@@ -43,7 +43,7 @@ Being part of Fedora means participating in a wide range of activities:
 
 Wanna stay in the loop? Join the [Fedora Maling List](https://lists.fedoraproject.org/admin/lists/fedora-join@lists.fedoraproject.org/). For synchronous communication, Fedora uses Matrix. You can join their Matrix/Element homeserver [here](https://matrix.to/#/#join:fedoraproject.org), and take a look at their [discussions](https://discussion.fedoraproject.org/tag/join-sig) if anything meets your interest.
 
-## So, What Does Fedora Really Do? <a name="REALLY"></a>
+## So, What Does Fedora Really Do? <a name="really"></a>
 At its heart, Fedora is all about creating open-source software that’s innovative, reliable, and free to use. Its crown jewel is Fedora Linux, a cutting-edge operating system that’s sleek, powerful, and full of possibilities. Whether you’re a programmer, a tech enthusiast, or just someone who loves exploring new tools, Fedora has something for you.
 
 There are different Fedora editions to fit your needs:
