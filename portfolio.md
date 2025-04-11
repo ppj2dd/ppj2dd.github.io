@@ -49,7 +49,7 @@ Entirely personal, this piece details my experiences (and involvement) with the 
 - Blog Post: [https://ppj2dd.github.io/bridging-community-gaps](https://ppj2dd.github.io/bridging-community-gaps/)
 - [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/8#note_2433946952)
 
-## [Issue #9:Plan a Fedora event at your university/community](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/9)
+## [Issue #9: Plan a Fedora event at your university/community](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/9)
 This is how I would go about organising a(n) \[Fedora\] event in my community, partnering with a selfless community organisation whose mission is to empower anyone with a drive by providing them with the resources, workspace, and support they need to thrive. Because they are dedicated to fostering a culture of creativity, continuous learning, and growth, I believe they are the best to partner with to execute a successful Fedora event.
 - Plan: <https://docs.google.com/document/d/1Rfiu62nxHRJ24X-fl8Pqmb7bGr6A6pXwDJdcRQ1mB9M/edit?usp=sharing>
 - [Object/Note on GitLab](https://gitlab.com/fedora/dei/outreachy-internship/-/issues/9#note_2425150114)
